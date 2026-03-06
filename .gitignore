@@ -1,0 +1,13 @@
+# Virtual Environment
+.venv/
+venv/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.so
+
+# IDE
+.vscode/
